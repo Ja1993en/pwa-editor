@@ -62,10 +62,10 @@ THEN I should have proper build scripts for a webpack application
 
 
 ## Deployment
-https://edit-notes-app.herokuapp.com/
+https://git.heroku.com/pwa--editor.git
 
 ## Screenshots
-![image](https://user-images.githubusercontent.com/93915846/168803325-b2d52949-e2bc-472a-b777-dbd73f74203c.png)
+![image](./Assets/pwa.png)
 
 
 
